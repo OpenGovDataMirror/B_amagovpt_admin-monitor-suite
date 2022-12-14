@@ -1,0 +1,13 @@
+.chart {
+  height: 50vh;
+  overflow: hidden;
+}
+
+table {
+  width: 100%;
+  text-align: center;
+}
+
+th, td {
+  padding: 0.5em;
+}
